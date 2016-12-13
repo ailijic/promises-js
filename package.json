@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ailijic/promises-js/issues"
   },
-  "homepage": "https://github.com/ailijic/promises-js#readme"
+  "homepage": "https://github.com/ailijic/promises-js#readme",
+  "devDependencies": {
+    "babel-plugin-syntax-async-functions": "^6.13.0",
+    "babel-plugin-transform-regenerator": "^6.20.0"
+  }
 }
